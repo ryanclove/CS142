@@ -1,0 +1,2 @@
+# CS142
+CS143 Data 101 Spring 2022
